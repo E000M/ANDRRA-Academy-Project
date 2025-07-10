@@ -1,0 +1,9 @@
+Important Notice
+
+The website URL is currently inactive because the project was developed locally using WordPress on XAMPP (localhost environment) and has not been published to a live server.
+
+To make the website accessible online, it would need to be hosted through a purchased hosting service.
+
+To view the website functionality and design, please refer to the attached screen recording.
+
+Thank you for your understanding!
